@@ -1,1 +1,1 @@
-# jQuery-edX-Class Day One
+# jQuery-edX-Class
